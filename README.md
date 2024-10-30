@@ -7,6 +7,8 @@ Egy szentendrei FB-csoportban egy beruházó (vagy képviselője) arról posztol
 
 Nem is szóltam a bejegyzéshez hozzá, de azt azért érzékeltem, hogy túlnyomó többségében pozitív, a hírt nagyon is üdvözlő kommentek érkeznek, és persze jönnek válaszok is, hogy ki milyen üzletnek örülne.
 
+![Kép a Dera-parkról](https://github.com/agatity/dera_park_analysis/blob/main/dera_latvanyterv.jpg)
+
 🗣️ Aztán pár nappal később visszanéztem oda, már többszáz komment volt, és láttam, hogy páran azért írják, hogy nem az a jó irány, hogy a zöldterület rovására mennek ezek a beruházások, de láttam, hogy ez egy kisebbség. Amihez én is tartozom.
 
 ✊ Sebaj, gondoltam, szokva vagyok ahhoz, hogy a véleményem sokszor kisebbségi vélemény. Tisztában vagyok vele, hogy a többség szerint nincs semmi gond a klímaváltozással, nincs összefüggésben az életformánkkal (amihez a városszéli bevásárlóközpontok is tartoznak), meg úgysincs ráhatásunk. Hogy sokak szerint csak "klímahiszti" van, arról itt már szó se essék. Oké – gondoltam – már megszoktam a kisebbségi létet.
@@ -73,5 +75,7 @@ ______
 ## Ha idáig eljutottál:
 - a teljes Python kódsor az anonimizált adatbázissal itt van a [Githubon](https://github.com/agatity/dera_park_analysis/)
 - az eredeti poszt pedig itt olvasható a Szentendre Blogol [FB-csoportban](https://www.facebook.com/groups/szteblogol/posts/7220377584650331/)
+- az én Facebook-posztom [itt olvasható](https://www.facebook.com/aron.kubatovics/posts/pfbid02QGJe1zQU6dF4p4KyLxhaizJmPQEfWB7C94VFKGGjBdhzqybEpnoNqznskLesBKRjl)
+- és felraktam [LinkedIn-re](https://www.linkedin.com/posts/kubatovics_a-data36com-nak-aj%C3%A1nlom-ezt-a-posztomat-activity-7257468509595586560-b1R0?utm_source=share&utm_medium=member_desktop) is
 
 📷 Látványterv: Dera-park (Facebook)
