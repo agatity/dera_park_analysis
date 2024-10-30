@@ -24,20 +24,36 @@ A módszerhez hozzá tartozik, hogy mivel a nagy nyelvi modellek nem determinisz
 
 ☝️ És még mielőtt az eredményt leírnám, annyit még, hogy ez egy elég egyszerű adatelemzés: nyilván lehetne vizsgálni a kommentek időbeli lefolyását, meg lehetett volna próbálni mélyebb tartalmi kontextusba helyezni az egyes kommenteket, vagy kutatni, hogy volt-e olyan, akinek a véleménye változott az időben előre haladva. De az eredeti kérdésemre ez az egyszerű elemzés is választ ad. **Azaz arra, hogy mennyire vannak kisebbségben azok, akiknek nem tetszik ez az új bevásárlóközpont?**
 
-1️⃣. ábra: összesen 711 komment érkezett a posztra, ránézésre látszódik, hogy több a beruházást támogató komment, szépen eloszlanak a szentiment pontszámok.
+**1️⃣. ábra**: összesen 711 komment érkezett a posztra, ránézésre látszódik, hogy több a beruházást támogató komment, szépen eloszlanak a szentiment pontszámok.
 
-2️⃣. Jobban megérthetjük az eloszlást, ha 5 csoportra osztjuk a kommenteket: nagyon ellenzők (1-1.99), inkább ellenzők (2-4.99), semlegesek (5-7), inkább támogatók (7.01-9), nagyon támogatók (9.01-10). Itt jött az első meglepetésem: ugyan összességében többen támogatják a projektet, de az ellenzők is bizony sokan vannak, és egyáltalán nem egy törpe kisebbség, nem néhány százalék! Inkább ellenzi 135 (1+134) komment, inkább támogatja 247 (203+44).
+![Első ábra](https://github.com/agatity/dera_park_analysis/blob/main/Distribution_of_Sentiment_Scores_total_replies.png)
 
-3️⃣. De vegyük ki azt a tényezőt, hogy nyilván a támogatók és az ellenzők között is vannak nagyon aktív felhasználók, akik sokat kommentelnek, esetleg meg akarnak másokat győzni az igazukról. Ezért arra gondoltam, hogy az összes komment helyett vegyünk csak minden felhasználótól egy kommentet. Az egyszerűség kedvéért mindenkitől csak az általa elsőnek írt komment hangulati (szentiment) pontértékét vegyük számításba – feltétezve, hogy többségében, amikor az ember először hozzászól, akkor le is írta a véleményét.
+**2️⃣. ábra**: Jobban megérthetjük az eloszlást, ha 5 csoportra osztjuk a kommenteket: nagyon ellenzők (1-1.99), inkább ellenzők (2-4.99), semlegesek (5-7), inkább támogatók (7.01-9), nagyon támogatók (9.01-10). Itt jött az első meglepetésem: ugyan összességében többen támogatják a projektet, de az ellenzők is bizony sokan vannak, és egyáltalán nem egy törpe kisebbség, nem néhány százalék! Inkább ellenzi 135 (1+134) komment, inkább támogatja 247 (203+44).
+
+![Második ábra](https://github.com/agatity/dera_park_analysis/blob/main/Distribution_of_Sentiment_Scores_total_replies_in_Five_Segments.png)
+
+**3️⃣. ábra:** De vegyük ki azt a tényezőt, hogy nyilván a támogatók és az ellenzők között is vannak nagyon aktív felhasználók, akik sokat kommentelnek, esetleg meg akarnak másokat győzni az igazukról. Ezért arra gondoltam, hogy az összes komment helyett vegyünk csak minden felhasználótól egy kommentet. Az egyszerűség kedvéért mindenkitől csak az általa elsőnek írt komment hangulati (szentiment) pontértékét vegyük számításba – feltétezve, hogy többségében, amikor az ember először hozzászól, akkor le is írta a véleményét.
 293 különböző felhasználó (azaz ember) szólt hozzá. Az 1-től 10-ig tartó skála képe nem tér el különösebben attól az ábrától, amikor az összes kommentet vizsgáltam.
 
-4️⃣. Az 5-ös csoportosítás esetén itt is látszik, hogy jobban eltolódott a támogatók felé az eloszlás, de még mindig nem váltak törpe kisebbséggé az ellenzők. Az következik ebből, hogy sok olyan támogató volt, aki kifejezte örömét – egyet kommentelt –, és nem foglalkozott azzal, hogy belemenjen vitákba. Mindenesetre 57 ember az, aki inkább ellenzi, és 120 ember volt, aki inkább támogatja.
+![Harmadik ábra](https://github.com/agatity/dera_park_analysis/blob/main/Distribution_of_Sentiment_Scores_first_comments.png)
 
-5️⃣. Kördiagramon, százalékokkal együtt mutatva jobban lehet látni az arányokat:
+**4️⃣. ábra:** Az 5-ös csoportosítás esetén itt is látszik, hogy jobban eltolódott a támogatók felé az eloszlás, de még mindig nem váltak törpe kisebbséggé az ellenzők. Az következik ebből, hogy sok olyan támogató volt, aki kifejezte örömét – egyet kommentelt –, és nem foglalkozott azzal, hogy belemenjen vitákba. Mindenesetre 57 ember az, aki inkább ellenzi, és 120 ember volt, aki inkább támogatja.
+
+![Negyedik ábra](https://github.com/agatity/dera_park_analysis/blob/main/Distribution_of_Sentiment_Scores_in_Five_Segments_first_comments.png)
+
+**5️⃣. ábra:** Kördiagramon, százalékokkal együtt mutatva jobban lehet látni az arányokat:
 * az összes kommentet elemezve: 19% ellenzi, 35% van mellette.
 * csak az első kommentet figyelembe véve: 19% ellenzi, 41% van mellette.
 
-5️⃣. És vizsgáltam azt is, hogy a különféle aktivitású kommentelők csoportja mennyire van mellette vagy ellene. Itt jön ki jól, hogy az egyszer kommentelők között szignifikánsan több a támogató komment, mint a többi csoportban, és érdekes, hogy a sokat (min 4.) kommentelők között többségben vannak a semleges állásponton lévők, illetve az ellenzők. Az ellenzők csak itt vannak többen, mint a támoagtók. Valószínűleg a nagyobb elkötelezettségük miatt kommenteltek többet.
+![Ötödik ábra](https://github.com/agatity/dera_park_analysis/blob/main/Community_Sentiment_Segmentation.png)
+![Hatodik ábra](https://github.com/agatity/dera_park_analysis/blob/main/Community_Sentiment_Segmentation_piechart.png)
+
+![Hetedik ábra](https://github.com/agatity/dera_park_analysis/blob/main/Community_Sentiment_Segmentation_first_comments.png)
+![Nyolcadik ábra](https://github.com/agatity/dera_park_analysis/blob/main/Community_Sentiment_Segmentation_first_comments_piechart.png)
+
+**6️⃣. ábra:** És vizsgáltam azt is, hogy a különféle aktivitású kommentelők csoportja mennyire van mellette vagy ellene. Itt jön ki jól, hogy az egyszer kommentelők között szignifikánsan több a támogató komment, mint a többi csoportban, és érdekes, hogy a sokat (min 4.) kommentelők között többségben vannak a semleges állásponton lévők, illetve az ellenzők. Az ellenzők csak itt vannak többen, mint a támoagtók. Valószínűleg a nagyobb elkötelezettségük miatt kommenteltek többet.
+
+![Kilencedik ábra](https://github.com/agatity/dera_park_analysis/blob/main/User_Engagement_Segmentation.png)
 
 👉 Itt fontos megjegyeznem, hogy a beruházó képviselője – nyilvánvalóan – a legtöbbet kommentelők között van, de nagyon visszafogott stílussal nyilvánult meg, azaz az ő kommentjei valószínűleg a semlegesek között vannak inkább. De ez az adatokon nem látszik, az adat nem minden!
 
