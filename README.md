@@ -1,9 +1,12 @@
 ## ✍️ Hosszú poszt lesz (TL;DR), de azt hiszem, hogy érdemes elolvasnod – és bízok is ebben.
 
 Egy szentendrei FB-csoportban egy beruházó (vagy képviselője) arról posztolt, hogy új bevásárlóközpont fog épülni a szentendrei Interspar-ral szemben, és megkérdezte a helyieket, hogy ki milyen üzletnek örülne – merthogy most tárgyalnak mindenféle boltokkal és üzletláncokkal.
+
 🤔 Én őszintén szólva nem igazán örültem a hírnek, mert zöldterületre épül az új bevásárlóközpont, és én nem hiszek abban, hogy egy, a város szélén elhelyezkedő és csak autóval megközelíthető bevásárlóközpontra van szükségünk. De hát kapitalizmus van, a zöldterület, amin épül, az pedig már nagyon rég (évtizedek óta) ki volt szabályozva GKSz besorolásúvá, azaz gazdasági-kereskedelmi övezetté. És ha egy magánberuházó kockáztat, az az ő szíve joga.
 
+
 Nem is szóltam a bejegyzéshez hozzá, de azt azért érzékeltem, hogy túlnyomó többségében pozitív, a hírt nagyon is üdvözlő kommentek érkeznek, és persze jönnek válaszok is, hogy ki milyen üzletnek örülne.
+
 🗣️ Aztán pár nappal később visszanéztem oda, már többszáz komment volt, és láttam, hogy páran azért írják, hogy nem az a jó irány, hogy a zöldterület rovására mennek ezek a beruházások, de láttam, hogy ez egy kisebbség. Amihez én is tartozom.
 
 ✊ Sebaj, gondoltam, szokva vagyok ahhoz, hogy a véleményem sokszor kisebbségi vélemény. Tisztában vagyok vele, hogy a többség szerint nincs semmi gond a klímaváltozással, nincs összefüggésben az életformánkkal (amihez a városszéli bevásárlóközpontok is tartoznak), meg úgysincs ráhatásunk. Hogy sokak szerint csak "klímahiszti" van, arról itt már szó se essék. Oké – gondoltam – már megszoktam a kisebbségi létet.
@@ -14,7 +17,9 @@ Aztán pár nap múlva már láttam, hogy 500 komment van rajta, és bizony sok 
 **Úgyhogy kicsit nekiestem az adatoknak.**
 
 🗃️ Letöltöttem az összes kommentet, tisztítottam az adatokat, anonimizáltam a neveket benne (mert ugyan a poszt nyilvános, de ha adatbázist készítek belőle, akkor már anonimizálni kell az adatokat), és a Llama 3.1 nagy nyelvi modell segítségével, API-n keresztül, szentiment elemzést végeztem rajta. Ez utóbbit hadd magyarázzam el: arra kértem a nyelvi modellt (a Llama 3.1 valamennyire tud magyarul), hogy 1-től 10-ig pontozza a kommenteket: 1-es nagyon ellene van, a komment nagyon negatív, a 10-es pedig azt jelenti, hogy nagyon mellette van, nagyon pozitív töltetű.
+
 A készen kapott adatokon aztán egyszerű adatelemzést végeztem.
+
 A módszerhez hozzá tartozik, hogy mivel a nagy nyelvi modellek nem determinisztikusak (azaz minden egyes megkérdezéskor ugyanarra a kommentere nem mindig ugyanazt válaszolják), ezért kétféle modellt használtam, mindkettőn ötször lefuttattam a szentiment elemzést, és az így kapott összesen 10-féle eredményt átlagoltam.
 
 ☝️ És még mielőtt az eredményt leírnám, annyit még, hogy ez egy elég egyszerű adatelemzés: nyilván lehetne vizsgálni a kommentek időbeli lefolyását, meg lehetett volna próbálni mélyebb tartalmi kontextusba helyezni az egyes kommenteket, vagy kutatni, hogy volt-e olyan, akinek a véleménye változott az időben előre haladva. De az eredeti kérdésemre ez az egyszerű elemzés is választ ad. **Azaz arra, hogy mennyire vannak kisebbségben azok, akiknek nem tetszik ez az új bevásárlóközpont?**
