@@ -41,7 +41,7 @@ A módszerhez hozzá tartozik, hogy mivel a nagy nyelvi modellek nem determinisz
 
 ![Negyedik ábra](https://github.com/agatity/dera_park_analysis/blob/main/Distribution_of_Sentiment_Scores_in_Five_Segments_first_comments.png)
 
-**5️⃣. ábra:** Kördiagramon, százalékokkal együtt mutatva jobban lehet látni az arányokat:
+**5️⃣-8️⃣. ábra:** Kördiagramon, százalékokkal együtt mutatva jobban lehet látni az arányokat:
 * az összes kommentet elemezve: 19% ellenzi, 35% van mellette.
 * csak az első kommentet figyelembe véve: 19% ellenzi, 41% van mellette.
 
@@ -51,7 +51,7 @@ A módszerhez hozzá tartozik, hogy mivel a nagy nyelvi modellek nem determinisz
 ![Hetedik ábra](https://github.com/agatity/dera_park_analysis/blob/main/Community_Sentiment_Segmentation_first_comments.png)
 ![Nyolcadik ábra](https://github.com/agatity/dera_park_analysis/blob/main/Community_Sentiment_Segmentation_first_comments_piechart.png)
 
-**6️⃣. ábra:** És vizsgáltam azt is, hogy a különféle aktivitású kommentelők csoportja mennyire van mellette vagy ellene. Itt jön ki jól, hogy az egyszer kommentelők között szignifikánsan több a támogató komment, mint a többi csoportban, és érdekes, hogy a sokat (min 4.) kommentelők között többségben vannak a semleges állásponton lévők, illetve az ellenzők. Az ellenzők csak itt vannak többen, mint a támoagtók. Valószínűleg a nagyobb elkötelezettségük miatt kommenteltek többet.
+**9️⃣. ábra:** És vizsgáltam azt is, hogy a különféle aktivitású kommentelők csoportja mennyire van mellette vagy ellene. Itt jön ki jól, hogy az egyszer kommentelők között szignifikánsan több a támogató komment, mint a többi csoportban, és érdekes, hogy a sokat (min 4.) kommentelők között többségben vannak a semleges állásponton lévők, illetve az ellenzők. Az ellenzők csak itt vannak többen, mint a támoagtók. Valószínűleg a nagyobb elkötelezettségük miatt kommenteltek többet.
 
 ![Kilencedik ábra](https://github.com/agatity/dera_park_analysis/blob/main/User_Engagement_Segmentation.png)
 
@@ -71,5 +71,7 @@ Az én nézőpontomból – én sem örülök egy ilyen bevásárlóközpontnak 
 ______
 
 ## Ha idáig eljutottál:
-- a teljes Python kódsor itt van a [Githubon](https://github.com/agatity/dera_park_analysis/)
+- a teljes Python kódsor az anonimizált adatbázissal itt van a [Githubon](https://github.com/agatity/dera_park_analysis/)
 - az eredeti poszt pedig itt olvasható a Szentendre Blogol [FB-csoportban](https://www.facebook.com/groups/szteblogol/posts/7220377584650331/)
+
+📷 Látványterv: Dera-park (Facebook)
