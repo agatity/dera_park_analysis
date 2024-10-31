@@ -11,13 +11,13 @@ I didn't comment on the post, but I did notice that there are overwhelmingly pos
 
 ![Kép a Dera-parkról](https://github.com/agatity/dera_park_analysis/blob/main/dera_latvanyterv.jpg)
 
-🗣️ Then I looked back a couple of days later, there were hundreds of comments, and I saw that some people were writing that it was not the right direction, that these investments were at the expense of green space, but I saw that this was a minority. I am part of that minority.
+🗣️ Then I looked back a couple of days later; there were hundreds of comments, and I saw that some people were writing that it was not the right direction, that these investments were at the expense of green space, but I saw that this was a minority. I am part of that minority.
 
 
-✊ Never mind, I thought, I'm used to my opinions often being a minority opinion. I am aware that the majority think there is nothing wrong with climate change, it has nothing to do with our way of life (which includes the peri-urban shopping centers) and we have no control over it anyway. And let's not mention the fact that many people think it's just a 'Climate-Change Hysteria'. OK, I thought, I'm used to being a minority.
-Then a few days later I saw that there were 500 comments on it, and there were many threads arguing, and many people commenting that it was not really good news, that they were not happy about it. And not just people who I know care about the environment or about the fact climate change has been kicked on the door. Even later the number of comments reached 700.
+✊ Never mind, I thought, I'm used to my opinions often being minority opinions. I am aware that the majority think there is nothing wrong with climate change; it has nothing to do with our way of life (which includes the peri-urban shopping centers), and we have no control over it anyway. And let's not mention the fact that many people think it's just a 'Climate-Change Hysteria'. OK, I thought, I'm used to being a minority.
+Then a few days later I saw that there were 500 comments on it, and there were many threads arguing and many people commenting that it was not really good news and that they were not happy about it. And not just people who I know care about the environment or about the fact climate change has been kicked on the door. Even later, the number of comments reached 700.
 
-### ❗ And that's when I had the idea that it would be nice to know, am I really in such a minority in my opinion that this is not the right direction? That a big shopping center in the form of greenfield project is not necessarily good news?
+### ❗ And that's when I had the idea that it would be nice to know, am I really in such a minority in my opinion that this is not the right direction? That a big shopping center in the form of a greenfield project is not necessarily good news?
 
 **So I've had a bit of a run at the data.**
 
