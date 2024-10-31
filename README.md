@@ -33,7 +33,7 @@ The method involves the fact that, since the large language models are not deter
 
 ![Első ábra](https://github.com/agatity/dera_park_analysis/blob/main/charts/Distribution_of_Sentiment_Scores_total_replies.png)
 
-**Figure 2️⃣**: We can better understand the distribution if we divide the comments into 5 groups: very opposed (1-1.99), rather opposed (2-4.99), neutral (5-7), rather in favor (7.01-9), very in favor (9.01-10). This is the first time I was surprised: although overall more people support the project, there are also a lot of opponents. And they're not a tiny minority—not a few percent! There are 135 (1+134) comments against, 247 (203+44) in favour.
+**Figure 2️⃣**: We can better understand the distribution if we divide the comments into 5 groups: very opposed (1-1.99), rather opposed (2-4.99), neutral (5-7), rather in favor (7.01-9), very in favor (9.01-10). This is the first time I was surprised: although overall more people support the project, there are also a lot of opponents. And they're not a tiny minority—not a few percent! There are 135 (1+134) comments against, 247 (203+44) in favor.
 
 ![Második ábra](https://github.com/agatity/dera_park_analysis/blob/main/charts/Distribution_of_Sentiment_Scores_total_replies_in_Five_Segments.png)
 
@@ -43,7 +43,7 @@ The method involves the fact that, since the large language models are not deter
 
 ![Harmadik ábra](https://github.com/agatity/dera_park_analysis/blob/main/charts/Distribution_of_Sentiment_Scores_first_comments.png)
 
-**Figure 4️⃣:** Again, for the grouping of 5, you can see that the distribution has shifted more towards those in favour, but those who are against it are still not a minority. The implication is that there were many supporters who expressed their pleasure—write a single comment—and did not bother to get into debates. In any case, there were 57 people who preferred to oppose and 120 who preferred to support.
+**Figure 4️⃣:** Again, for the grouping of 5, you can see that the distribution has shifted more towards those in favor, but those who are against it are still not a minority. The implication is that there were many supporters who expressed their pleasure—write a single comment—and did not bother to get into debates. In any case, there were 57 people who preferred to oppose and 120 who preferred to support.
 
 ![Negyedik ábra](https://github.com/agatity/dera_park_analysis/blob/main/charts/Distribution_of_Sentiment_Scores_in_Five_Segments_first_comments.png)
 
