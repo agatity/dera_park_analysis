@@ -59,7 +59,7 @@ The method involves the fact that, since the large language models are not deter
 ![Hetedik ábra](https://github.com/agatity/dera_park_analysis/blob/main/charts/Community_Sentiment_Segmentation_first_comments.png)
 ![Nyolcadik ábra](https://github.com/agatity/dera_park_analysis/blob/main/charts/Community_Sentiment_Segmentation_first_comments_piechart.png)
 
-**9️⃣ Figure:** And I also looked at how much the group of commenters with different levels of activity are for or against it. Here it comes out well that there are significantly more supportive comments among those who commented once than in the other groups, and it is interesting that among those who commented a lot (min 4) there is a majority of neutral commenters and those who commented against. Opponents are only here more numerous than supporters. They probably commented more because of their higher engagement.
+**Figure 9️⃣:** And I also looked at how much the group of commenters with different levels of activity are for or against it. Here it comes out well that there are significantly more supportive comments among those who commented once than in the other groups, and it is interesting that among those who commented a lot (min 4) there is a majority of neutral commenters and those who commented against. Opponents are only here more numerous than supporters. They probably commented more because of their higher engagement.
 
 ![Kilencedik ábra](https://github.com/agatity/dera_park_analysis/blob/main/charts/User_Engagement_Segmentation.png)
 
@@ -80,7 +80,7 @@ From my point of view—I am not happy about such a shopping center either—thi
 ______
 
 ## If you've made it this far:
-- the complete Python code with the anonymized database is over here on [Githubon](https://github.com/agatity/dera_park_analysis/)
+- the complete Python code with the anonymized database is over here on [Github](https://github.com/agatity/dera_park_analysis/)
 - and the original post can be read here on the 'Szentendre Blogol' [Facebook group](https://www.facebook.com/groups/szteblogol/posts/7220377584650331/)
 - my Facebook post can be [read here](https://www.facebook.com/aron.kubatovics/posts/pfbid02QGJe1zQU6dF4p4KyLxhaizJmPQEfWB7C94VFKGGjBdhzqybEpnoNqznskLesBKRjl)
 - and I put it on [LinkedIn](https://www.linkedin.com/posts/kubatovics_a-data36com-nak-aj%C3%A1nlom-ezt-a-posztomat-activity-7257468509595586560-b1R0?utm_source=share&utm_medium=member_desktop) is
