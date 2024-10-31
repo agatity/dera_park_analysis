@@ -1,6 +1,6 @@
 ### _[[ MAGYAR VÁLTOZATÉRT GÖRGESS LEJJEBB ]]_
 
-## ✍️ It's going to be a long post (TL;DR), but I think it's worth to read, and I hope you will.
+## ✍️ It's going to be a long post (TL;DR), but I think it's worth reading, and I hope you will.
 
 In a Facebook group of my home town, Szentendre, an investor (or his representative) posted about a new shopping center to be built opposite the Interspar in Szentendre, and asked locals what kind of shop they would like to see—because they are now negotiating with all kinds of shops and franchises.
 
