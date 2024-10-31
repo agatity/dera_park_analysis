@@ -37,7 +37,7 @@ The method involves the fact that, since the large language models are not deter
 
 ![Második ábra](https://github.com/agatity/dera_park_analysis/blob/main/charts/Distribution_of_Sentiment_Scores_total_replies_in_Five_Segments.png)
 
-**Figure 3️⃣:** But let's take out the factor that obviously there are very active users among both supporters and opponents. They comment a lot, perhaps trying to convince others of their rightness. So I thought that instead of all comments, we should consider only one comment from each user. And for the sake of simplicity, let's take only the sentiment score of the first comment posted by each user–assuming that in most cases, the first time a user posts a comment, he/she has written his/her opinion.
+**Figure 3️⃣:** But let's take out the factor that obviously there are very active users among both supporters and opponents. They comment a lot, perhaps trying to convince others of their rightness. So I thought that instead of all comments, we should consider only one comment from each user. And for the sake of simplicity, let's take only the sentiment score of the first comment posted by each user—assuming that in most cases, the first time a user posts a comment, he/she has written his/her opinion.
 
 293 different users (i.e. people) have commented. The picture of the scale from 1 to 10 is not particularly different from the picture when I looked at all comments.
 
